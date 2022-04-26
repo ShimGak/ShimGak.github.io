@@ -56,3 +56,34 @@ body {
 	color: #ddd;
 	line-height: 1.7;
 }
+
+.container {
+    width: 900px;
+    max-width: 90%;
+    background-color: rgb(177, 239, 255);
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 2px 2px;
+    color: rgb(67, 104, 153);
+    margin: auto;
+}
+
+.button {
+    background-color:rgb(132, 155, 175);
+    border: 8px;
+    color: rgb(3, 40, 75);
+    padding: 20px 34px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: medium;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.btn-grid {
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    gap: 10px;
+    margin-top: 20px;
+}
