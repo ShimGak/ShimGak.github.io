@@ -9,10 +9,10 @@
 }
 
 body{
-    background: #585c68;
+    background: #979797;
     font-size: 14px;
     line-height: 22px;
-    color: #555555;
+    color: #d8d8d8;
 }
 
 .bold{
@@ -35,7 +35,7 @@ body{
 
 .cv .cvleft{
     width: 280px;
-    background: #0bb5f4;
+    background: #8f70c7;
 }
 
 .cv .cvleft .cvprofile{
@@ -61,7 +61,7 @@ body{
 }
 
 .cv .cvleft .regular{
-  color: #b1eaff;
+  color: #d2c5f0;
 }
 
 .cv .cvitem{
@@ -136,7 +136,7 @@ body{
 
 .cv .cvright{
   width: 520px;
-  background: #fff;
+  background: rgb(40, 18, 65);
   padding: 25px;
 }
 
